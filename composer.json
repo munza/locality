@@ -1,0 +1,24 @@
+{
+    "name": "munza/locality",
+    "description": "local environtment setup package for laravel 5.*",
+    "version": "0.1.0",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tawsif Aqib",
+            "email": "tawsif.aqib@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/console": "5.*",
+        "illuminate/support": "5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Munza\\Locality\\": "src/Munza/Locality"
+        }
+    },
+    "minimum-stability": "dev"
+}
