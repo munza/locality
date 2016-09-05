@@ -1,6 +1,6 @@
 {
     "name": "munza/locality",
-    "description": "local environtment setup package for laravel 5.*",
+    "description": "package for laravel 5.* that provides config for local service providers and aliases, .editorconfig file generator",
     "version": "0.1.0",
     "type": "project",
     "license": "MIT",

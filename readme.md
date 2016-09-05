@@ -6,7 +6,7 @@ It is a tool to perform following tasks -
 
 ## Requirements
 - PHP 5.6.*
-- Laravel 5.2.*
+- Laravel 5.*
 
 ## Usage
 
@@ -27,3 +27,7 @@ Now create an `.editorconfig` file by running the following Artisan Command.
 `php artisan make:editorconfig`
 But if you want the default configuration then use -
 `php artisan make:editorconfig --default`
+
+
+## License
+This package is open-sourced software licensed under the MIT license.
